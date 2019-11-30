@@ -65,5 +65,9 @@ exports.config = {
 
   npm: {
     enabled: true
+  },
+
+  wacher: {
+    usePolling: true
   }
 };
